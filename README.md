@@ -1,6 +1,6 @@
 # estima_idade
 
-A new Flutter project.
+Projeto desenvolvido em Flutter, para trabalho de faculdade a fins estudantis.
 
 ## Getting Started
 
